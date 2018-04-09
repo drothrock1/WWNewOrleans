@@ -1,0 +1,572 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>files</key>
+	<dict>
+		<key>AboutViewController.nib</key>
+		<data>
+		OyI5ICk9ejtbWmsWAisCY4DqnPk=
+		</data>
+		<key>Atlanta Cemetery tree-1.png</key>
+		<data>
+		4hTCM85cjTPgzjZyN8kl9p2kCLc=
+		</data>
+		<key>Atlanta Roundhouse sm-1.png</key>
+		<data>
+		yWATWz6d7obHOxZ8LXBE0AFAhPg=
+		</data>
+		<key>Atlanta Roundhouse.png</key>
+		<data>
+		AX0XdW14BtBK9/OTDdGKSb15Tuo=
+		</data>
+		<key>Bell Tower header-1.png</key>
+		<data>
+		Rsyc9aSMLQnMZuW0EOwPuVbXr1U=
+		</data>
+		<key>Bell Tower.png</key>
+		<data>
+		4d66d6gqP0+PrJB17Y3Y6Da1ZoI=
+		</data>
+		<key>Bobby Jones header-1.png</key>
+		<data>
+		++WD94qTIEv+YGaAFu0loQiYbTU=
+		</data>
+		<key>Bobby Jones.png</key>
+		<data>
+		7qw4eisnNZ9c8hUGjh+rQOGg7do=
+		</data>
+		<key>Cemetery marker - woman mourning-1.png</key>
+		<data>
+		PBC300Sgs0solvg613A+zUHNPiI=
+		</data>
+		<key>Cemetery marker-1.png</key>
+		<data>
+		V7uUAKAtE4BImMdHXmLJRg7Du5s=
+		</data>
+		<key>Confederate Obelisk sm-1.png</key>
+		<data>
+		WIMUcYgbI7H9lYpWpCFHmHlcObs=
+		</data>
+		<key>Confederate Obelisk.png</key>
+		<data>
+		QfIi2xNfR0/Zmks+WuPc2VTbbFs=
+		</data>
+		<key>Confederate Section header-1.png</key>
+		<data>
+		51XU2dD5P1Ic3NJkL4DsCFCQbDM=
+		</data>
+		<key>Confederate Section.png</key>
+		<data>
+		gcAd/v0bpaTZEWvkbrwTiDMNGDI=
+		</data>
+		<key>Confederate graves sm-1-1.png</key>
+		<data>
+		/Vm+sVwr5LxgCVdM9Biy7eqYjkQ=
+		</data>
+		<key>Confederate graves.png</key>
+		<data>
+		wHC7MuK9rVI7KZE7LxCzVMCVywM=
+		</data>
+		<key>Default.png</key>
+		<data>
+		V2kRgZ13HqryapJcRv8Uvmkt63s=
+		</data>
+		<key>DirectionsViewController.nib</key>
+		<data>
+		Pwezl0q2wrKadJPyIiC25VTLHak=
+		</data>
+		<key>Grant Mausoleum header-1-1.png</key>
+		<data>
+		5x05vvrimfK4V+6E/iAyocFVwMM=
+		</data>
+		<key>Grant Mausoleum.png</key>
+		<data>
+		iqPRms9vmKRo9+mMf5cw14bwQvE=
+		</data>
+		<key>Great Locomotive Chase sm-1.png</key>
+		<data>
+		8FGZmP8ThmzsQ09oMyadjhCJ58g=
+		</data>
+		<key>Great Locomotive Chase.png</key>
+		<data>
+		FQtgRRnmjLuXoPP6g04T8GxAUqo=
+		</data>
+		<key>HelpViewController.nib</key>
+		<data>
+		NyJzNhVWBadbVTcWegbpOh/F7C8=
+		</data>
+		<key>HoursViewController.nib</key>
+		<data>
+		zRI+52Up9p1JH+cZNf4lTvY6emg=
+		</data>
+		<key>Hugh Inman sm-1.png</key>
+		<data>
+		on9x0BgT8PEJuqQV41/eItRdC34=
+		</data>
+		<key>Hugh Inman.png</key>
+		<data>
+		hHLLF1rI5C310X920cEFvqix2IY=
+		</data>
+		<key>Icon.png</key>
+		<data>
+		5qjE8/T/7pfy/AT6MeWrAMFXP14=
+		</data>
+		<key>Infobutton.png</key>
+		<data>
+		lshCVqdz1dBb2j9S5UIKn2pqhyE=
+		</data>
+		<key>James Nissen header.png</key>
+		<data>
+		M1C5WB6uBrT0TA/yTlSZCQKwnZo=
+		</data>
+		<key>James Nissen.png</key>
+		<data>
+		eBq728xiiFEuOTljkRiQrjdsZZQ=
+		</data>
+		<key>Jasper Smith header.png</key>
+		<data>
+		vApavl/HGUCo1QNYyPBodrhP+7g=
+		</data>
+		<key>Jasper Smith.png</key>
+		<data>
+		qC90tBZlJKmbflwIMtIqR0triaY=
+		</data>
+		<key>Jim Conley sm-1.png</key>
+		<data>
+		F2zjfNKd6ktkGblJnQB+hJWWMtE=
+		</data>
+		<key>Jim Conley.png</key>
+		<data>
+		b7dTofoxPNKbuaWyI7bvLgPoqiI=
+		</data>
+		<key>Leo Frank in death-sm.png</key>
+		<data>
+		NA59W7eFAKsCi/ZobxsHYpKVu90=
+		</data>
+		<key>Leo Frank in death.png</key>
+		<data>
+		wAx/jRwm0qMqfBGhcZo7FUYHTpE=
+		</data>
+		<key>Leo Frank in life-sm.png</key>
+		<data>
+		92YUMYaynxOfg4G32lfOe7asFSg=
+		</data>
+		<key>Leo Frank in life.png</key>
+		<data>
+		Yw3eN/qNKr9WoyDPWvCqmC/izF4=
+		</data>
+		<key>Leo Frank-1.png</key>
+		<data>
+		JKYfgFojMIgTkjwSCj0nTCqPsK0=
+		</data>
+		<key>Lion of the Confederacy header-1.png</key>
+		<data>
+		6pgaaYxRWHvIsrvhFruiWIdy0z8=
+		</data>
+		<key>Lion of the Confederacy.png</key>
+		<data>
+		0Jy1N+rzZUAXO5YH+aK03EdOFSA=
+		</data>
+		<key>LoadingScreen1-1-1.png</key>
+		<data>
+		ViCUbuJotExDG4VM1tf2KeGv4PM=
+		</data>
+		<key>LoadingScreen17c.png</key>
+		<data>
+		0C8L/WjfRVc5rtobff3PnjRtEO0=
+		</data>
+		<key>Louise Inman header-1.png</key>
+		<data>
+		TACEI41Mr+J+mdcr5kxS+447b0U=
+		</data>
+		<key>Louise Inman.png</key>
+		<data>
+		OtTmH0O6VzsGI1EfbtVynwcLfgI=
+		</data>
+		<key>MapViewIcon.png</key>
+		<data>
+		u0Z9VBIrP2KTDdoV+l4+NUdgA3A=
+		</data>
+		<key>Margaret Mitchell marker header-1.png</key>
+		<data>
+		1dUb41URbksCG5vgP7KTYpA9AOY=
+		</data>
+		<key>Margaret Mitchell marker.png</key>
+		<data>
+		matTw4MIz2PTWKf2A/LWrHDSyq4=
+		</data>
+		<key>Margaret Mitchell sm-1.png</key>
+		<data>
+		Y58rtG5gmDXmTgqq0ZBOTrpLoro=
+		</data>
+		<key>Margaret Mitchell.png</key>
+		<data>
+		IM1f3fqYKpSO3+x3pVsRZOZilMw=
+		</data>
+		<key>Martha Compton grave lg-1.png</key>
+		<data>
+		0lwxdUzDHf7azlb0Ei0KhBCLC1A=
+		</data>
+		<key>Martha Compton grave sm-1.png</key>
+		<data>
+		XDrH8YIamFtToMWpZZkWWW3++S8=
+		</data>
+		<key>Mary Phagan sm-1.png</key>
+		<data>
+		CmIj4zsiC2AKheVcKQ79GS6+qLw=
+		</data>
+		<key>Mary Phagan, Jim Conley-1.png</key>
+		<data>
+		jAYJAUnkUL/kGr1bU4f9201A3cE=
+		</data>
+		<key>Mary Phagan.png</key>
+		<data>
+		YbMGRfsny1B6ySWLQ9YSI26ctL4=
+		</data>
+		<key>Moses Formwalt header-1.png</key>
+		<data>
+		xWPQE267eUWpsfYBL0YUABD0kpQ=
+		</data>
+		<key>Moses Formwalt.png</key>
+		<data>
+		qDhMpzIOby5uaW0xvLb63upEK6c=
+		</data>
+		<key>Niobe Rocks.png</key>
+		<data>
+		q1JesV9dg4f9SNDCZe82k1hb1ng=
+		</data>
+		<key>Niobe header-1.png</key>
+		<data>
+		GyUx406HqhjL/IJ5WgvZG82kFkE=
+		</data>
+		<key>Niobe.png</key>
+		<data>
+		y40K+o/PoGBKPyn8Jungr2XAPCU=
+		</data>
+		<key>Oakland Cemetery Gates-1.png</key>
+		<data>
+		NPwotBK/v5n794lehcMoNMseH4s=
+		</data>
+		<key>PageEightViewController.nib</key>
+		<data>
+		K1LOLfBgAnpu/mc4NFEOWPvCvTc=
+		</data>
+		<key>PageElevenViewController.nib</key>
+		<data>
+		83HaoNZ23mbXoBIo+v8BmIDqqmo=
+		</data>
+		<key>PageFiveViewController.nib</key>
+		<data>
+		sxGH3INSatYwmTko87MVSMP32OU=
+		</data>
+		<key>PageFourViewController.nib</key>
+		<data>
+		W1iIjyGh+fl5OPS1V8U2cDfKeEY=
+		</data>
+		<key>PageNineViewController.nib</key>
+		<data>
+		psSR51giWETPcS2F9T6IQEeh/FM=
+		</data>
+		<key>PageSevenViewController.nib</key>
+		<data>
+		rxWIchm/212imC6io5NY8BnYkyc=
+		</data>
+		<key>PageSixViewController.nib</key>
+		<data>
+		j1YGIlXJHVq4vtB7a15Mj3gKvFk=
+		</data>
+		<key>PageTenViewController.nib</key>
+		<data>
+		9QBbILglIpgjUPJPOV79AQ4affQ=
+		</data>
+		<key>PageThirteenViewController.nib</key>
+		<data>
+		Z3g3Q/bDZxdg7RhMDDewVHmaETA=
+		</data>
+		<key>PageTwelveViewController.nib</key>
+		<data>
+		Oy+nj2Ecez0jatzSFrsubclA+Cg=
+		</data>
+		<key>Pampas Grass sm.png</key>
+		<data>
+		XcthEWi6eRlSol34ZjMdug+Kh1c=
+		</data>
+		<key>Pampas Grass.png</key>
+		<data>
+		sSdC4z4UKujX0h5T1KC4riGDaxk=
+		</data>
+		<key>PinDRed1.png</key>
+		<data>
+		YjPAG9HQalqR4Y2r47eptTx/aDU=
+		</data>
+		<key>PinDRed10.png</key>
+		<data>
+		AuAuVEEb0HQWhYxuJDprCkoy0lE=
+		</data>
+		<key>PinDRed11.png</key>
+		<data>
+		+l70vqS/3aFm2wLNUOvExvzwSMk=
+		</data>
+		<key>PinDRed12.png</key>
+		<data>
+		raIc2iN0VFfxQH5mFlaF8Aq3UlM=
+		</data>
+		<key>PinDRed13.png</key>
+		<data>
+		+UMMt48Z6SEgVf3mpofim6LW3MM=
+		</data>
+		<key>PinDRed2.png</key>
+		<data>
+		JJFAxwKYknclnOIZLvNWtV9ioRo=
+		</data>
+		<key>PinDRed3.png</key>
+		<data>
+		uPuk6x0mYS9MOJWCTjXGSyL1ruM=
+		</data>
+		<key>PinDRed4.png</key>
+		<data>
+		HHpmPHeSDMAhCS/DQD7V7aKOTAE=
+		</data>
+		<key>PinDRed5.png</key>
+		<data>
+		u8SUN1PmUKBBs8Q+cEkUasp93sI=
+		</data>
+		<key>PinDRed6.png</key>
+		<data>
+		81uPXqhf2YgqSrYUGzVcaLcvOTc=
+		</data>
+		<key>PinDRed7.png</key>
+		<data>
+		gYNzD1D97RFac58+/UIm2kGEla4=
+		</data>
+		<key>PinDRed8.png</key>
+		<data>
+		FPsjFQAugmpKHV22K35+BB11C38=
+		</data>
+		<key>PinDRed9.png</key>
+		<data>
+		NVfZOsIf51joP5rvAWGKUgG5d1A=
+		</data>
+		<key>PkgInfo</key>
+		<data>
+		n57qDP4tZfLD1rCS43W0B4LQjzE=
+		</data>
+		<key>Playbutton.png</key>
+		<data>
+		o/pX4q3LpggBQ4iM6HWDKl1siFc=
+		</data>
+		<key>Potter House sm-1.png</key>
+		<data>
+		5LDXZNPsslKRYfZV98L+cQ5ezag=
+		</data>
+		<key>Potter House.png</key>
+		<data>
+		HNnd5TPnQf8n19jXlnuJ6YFOepY=
+		</data>
+		<key>Sherman in Atlanta sm-1.png</key>
+		<data>
+		mcqdxyhMGWO/r6go/3+LeUXKEWs=
+		</data>
+		<key>Sherman in Atlanta.png</key>
+		<data>
+		pXzxL7tK3NO1YCPIXVHkPAkFWw0=
+		</data>
+		<key>TableViewIcon.png</key>
+		<data>
+		4KcgRmdXUN6z8i8KPLbhtKEAn8U=
+		</data>
+		<key>TipsViewController.nib</key>
+		<data>
+		eNetP3dQkhl9tZH5rnNC/YMooh4=
+		</data>
+		<key>Tweet's marker header-1.png</key>
+		<data>
+		Dl8mzIfJ+ZIzfZHrlzHK3jz9EMk=
+		</data>
+		<key>Tweet's marker.png</key>
+		<data>
+		E89JIGdvAnaHuh8EnSchBYGCjjg=
+		</data>
+		<key>William Fuller header-1.png</key>
+		<data>
+		anDOfXBwTywNnmKm+zjn2O5Ggds=
+		</data>
+		<key>William Fuller.png</key>
+		<data>
+		EuyDThdV4GKkKy8ew/hyGahoHSw=
+		</data>
+		<key>app_icon.png</key>
+		<data>
+		6vboOnUCf7oI53V1YZUOD5TfCrU=
+		</data>
+		<key>atltable1.png</key>
+		<data>
+		4e+49CfBY2y+iniedzWWEzY0Kyw=
+		</data>
+		<key>atltable10.png</key>
+		<data>
+		enj5EVYOfp1ytzQgoEgn1FdqNy4=
+		</data>
+		<key>atltable11.png</key>
+		<data>
+		FALt7jxXBjmQ2sE4lYw9rBtCpCg=
+		</data>
+		<key>atltable12.png</key>
+		<data>
+		3CeSTjwifmKRI3PNImSFBb4S3j4=
+		</data>
+		<key>atltable13.png</key>
+		<data>
+		C2KuabMLxqigkGT6vPIDRorMz6w=
+		</data>
+		<key>atltable2.png</key>
+		<data>
+		bFQ4t+R9GrbadbZiaff2/oGP/u8=
+		</data>
+		<key>atltable3.png</key>
+		<data>
+		Bkjv78aoarMawwasOGqS3DDaQUU=
+		</data>
+		<key>atltable4.png</key>
+		<data>
+		G4jlVbbwRcNMm1z24Zo4upb8pVI=
+		</data>
+		<key>atltable5.png</key>
+		<data>
+		jdzkAJqDtSpz3q+0nAQbDrClufI=
+		</data>
+		<key>atltable6.png</key>
+		<data>
+		1GRkcM9iE5RxpP0my/mKfGVNgFs=
+		</data>
+		<key>atltable7.png</key>
+		<data>
+		XJ0lFtjMzuHb4fku0AIOTbAHjRs=
+		</data>
+		<key>atltable8.png</key>
+		<data>
+		kiq9V+ZUtzQrZDptWT7szzaJWq8=
+		</data>
+		<key>atltable9.png</key>
+		<data>
+		PSLd1cixirgKvg451Jhc5mOnfXc=
+		</data>
+		<key>bp_btn1.png</key>
+		<data>
+		XXMRQVSxEuUn2p3pXB3ME4qMJnc=
+		</data>
+		<key>bp_btn2.png</key>
+		<data>
+		DC5MWgE5yUzKuxb2FE7v9RBnC1w=
+		</data>
+		<key>embedded.mobileprovision</key>
+		<data>
+		3CyRQogm+m8nDox7zJvrPjCnH/U=
+		</data>
+		<key>en.lproj/InfoPlist.strings</key>
+		<data>
+		Ztmnj9r5Mxa3xsgY3/F1Mls99uk=
+		</data>
+		<key>en.lproj/Localizable.strings</key>
+		<data>
+		MWff9AfEkc4ihfBns8D1wlyUEp0=
+		</data>
+		<key>en.lproj/MainWindow.nib</key>
+		<data>
+		9x4YYUpIfJpM+TRm29Fc4Nugdt0=
+		</data>
+		<key>en.lproj/PageOneViewController.nib</key>
+		<data>
+		RVg5PSWcNh9SuwDbxxhKMHKtw5g=
+		</data>
+		<key>en.lproj/PageThreeViewController.nib</key>
+		<data>
+		OK+kC9IbSvatcqGLqC4BS0X8SD4=
+		</data>
+		<key>en.lproj/PageTwoViewController.nib</key>
+		<data>
+		mg7CBhkCw3fVtQqdtedfuUun9qI=
+		</data>
+		<key>nolac1.mp3</key>
+		<data>
+		z0shAsSDTxUVZfLbsqyYpRdC4Yo=
+		</data>
+		<key>nolac10.mp3</key>
+		<data>
+		jxtpZA6z82gZ+tTXkDUi/+MqpP4=
+		</data>
+		<key>nolac11.mp3</key>
+		<data>
+		Fv28lFISvW4sUumPSruGluppDXg=
+		</data>
+		<key>nolac12.mp3</key>
+		<data>
+		YQ9tV1Yvyv0Frsyb487T2lfIQ+c=
+		</data>
+		<key>nolac13.mp3</key>
+		<data>
+		pRGvYv6UfrqCcoGWClSp/26dBKs=
+		</data>
+		<key>nolac2.mp3</key>
+		<data>
+		kbZhMdjCadGRJqILE6uO/WMB7bo=
+		</data>
+		<key>nolac3.mp3</key>
+		<data>
+		JhlECtcXYs1iJJoHRiX7bu/NCjo=
+		</data>
+		<key>nolac4.mp3</key>
+		<data>
+		E40XYXpn3+9Y7tkfw6EYZ0ReuBA=
+		</data>
+		<key>nolac5.mp3</key>
+		<data>
+		2EFFKu7bGboKQYnQDL1QBQelPCk=
+		</data>
+		<key>nolac6.mp3</key>
+		<data>
+		GwWWrjc/mhKj1RlFGHQm4Xye4vI=
+		</data>
+		<key>nolac7.mp3</key>
+		<data>
+		X40aXYiSFZUq4hbEnsD0MFB2JzQ=
+		</data>
+		<key>nolac8.mp3</key>
+		<data>
+		n0bYcWxa0SHoOBuLHylXLrmJm6A=
+		</data>
+		<key>nolac9.mp3</key>
+		<data>
+		BBCDijFqXHfPOHF1Z6QX2P0x4pU=
+		</data>
+		<key>pausebutton.png</key>
+		<data>
+		5t4Ps4DLXHeNWHyc2XwY1+LAL7k=
+		</data>
+		<key>volume_up.png</key>
+		<data>
+		Wnuk03ZCfZjbpenYQyobhYP81b0=
+		</data>
+	</dict>
+	<key>rules</key>
+	<dict>
+		<key>.*</key>
+		<true/>
+		<key>Info.plist</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>10</real>
+		</dict>
+		<key>ResourceRules.plist</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>100</real>
+		</dict>
+	</dict>
+</dict>
+</plist>
