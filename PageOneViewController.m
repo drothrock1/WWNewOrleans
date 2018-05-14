@@ -123,7 +123,6 @@
     UISegmentedControl *segmentedControl = [[UISegmentedControl alloc] initWithItems:[NSArray arrayWithObjects:[UIImage imageNamed:@"back12.png"],[UIImage imageNamed:@"forward12.png"],nil]];
 	[segmentedControl addTarget:self action:@selector(segmentAction:) forControlEvents:UIControlEventValueChanged];
 	segmentedControl.frame = CGRectMake(50, 3, 55, 26);
-	segmentedControl.segmentedControlStyle = UISegmentedControlStyleBar;
 	segmentedControl.momentary = YES;
     segmentedControl.tintColor = [UIColor whiteColor];
 	/*UISegmentedControl *segmentedControl = [[UISegmentedControl alloc] initWithItems:[NSArray arrayWithObjects:[UIImage imageNamed:@"bp_btn1.png"],[UIImage imageNamed:@"bp_btn2.png"],nil]];

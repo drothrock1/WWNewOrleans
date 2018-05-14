@@ -11,6 +11,7 @@
 		1D60589B0D05DD56006BFB54 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 29B97316FDCFA39411CA2CEA /* main.m */; };
 		1D60589E0D05DD5A006BFB54 /* CoreFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1DC4B2650D05D9C8003A8154 /* CoreFoundation.framework */; };
 		1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1DF5F4DF0D08C38300B7A737 /* UIKit.framework */; };
+		41071B33207BD0E900E8ECBF /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 41071B32207BCB2700E8ECBF /* CoreLocation.framework */; };
 		531F16A70D6367A3003D33FB /* PageTwoViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 531F16970D6367A3003D33FB /* PageTwoViewController.m */; };
 		531F16A80D6367A3003D33FB /* PageOneViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 531F16980D6367A3003D33FB /* PageOneViewController.m */; };
 		531F16A90D6367A3003D33FB /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 531F16990D6367A3003D33FB /* AppDelegate.m */; };
@@ -22,9 +23,9 @@
 		53A79EB90D70DF2A005FAC2C /* PageFourViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 53A79EB80D70DF2A005FAC2C /* PageFourViewController.m */; };
 		53D090D90FA2391E00BB0543 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D30AB110D05D00D00671497 /* Foundation.framework */; };
 		C40DC49111EC04FB009B0E8A /* PageNineViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C40DC48F11EC04FB009B0E8A /* PageNineViewController.m */; };
-		C4283E7A1F7C3E3B00E74D74 /* Infoscreen-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = C4283E791F7C3E3B00E74D74 /* Infoscreen-568h@2x.png */; };
-		C4283E7C1F7C3E4300E74D74 /* Infoscreen@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = C4283E7B1F7C3E4300E74D74 /* Infoscreen@2x.png */; };
-		C4283E7E1F7C3E4C00E74D74 /* Infoscreen.png in Resources */ = {isa = PBXBuildFile; fileRef = C4283E7D1F7C3E4C00E74D74 /* Infoscreen.png */; };
+		C4283E7A1F7C3E3B00E74D74 /* InfoScreen-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = C4283E791F7C3E3B00E74D74 /* InfoScreen-568h@2x.png */; };
+		C4283E7C1F7C3E4300E74D74 /* InfoScreen.png in Resources */ = {isa = PBXBuildFile; fileRef = C4283E7B1F7C3E4300E74D74 /* InfoScreen.png */; };
+		C4283E7E1F7C3E4C00E74D74 /* InfoScreen480.png in Resources */ = {isa = PBXBuildFile; fileRef = C4283E7D1F7C3E4C00E74D74 /* InfoScreen480.png */; };
 		C42BAF9C11BF316200D9F604 /* infoViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C42BAF9B11BF316200D9F604 /* infoViewController.m */; };
 		C42BAFA811BF363000D9F604 /* TipsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C42BAFA611BF363000D9F604 /* TipsViewController.m */; };
 		C42BAFAD11BF363D00D9F604 /* DirectionsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C42BAFAB11BF363D00D9F604 /* DirectionsViewController.m */; };
@@ -231,6 +232,7 @@
 		1DC4B2650D05D9C8003A8154 /* CoreFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreFoundation.framework; path = System/Library/Frameworks/CoreFoundation.framework; sourceTree = SDKROOT; };
 		1DF5F4DF0D08C38300B7A737 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		41071B32207BCB2700E8ECBF /* CoreLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreLocation.framework; path = System/Library/Frameworks/CoreLocation.framework; sourceTree = SDKROOT; };
 		531F16910D63677B003D33FB /* Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Prefix.pch; sourceTree = "<group>"; };
 		531F16970D6367A3003D33FB /* PageTwoViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PageTwoViewController.m; sourceTree = "<group>"; };
 		531F16980D6367A3003D33FB /* PageOneViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PageOneViewController.m; sourceTree = "<group>"; };
@@ -252,9 +254,9 @@
 		8D1107310486CEB800E47090 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C40DC48E11EC04FB009B0E8A /* PageNineViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PageNineViewController.h; sourceTree = "<group>"; };
 		C40DC48F11EC04FB009B0E8A /* PageNineViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PageNineViewController.m; sourceTree = "<group>"; };
-		C4283E791F7C3E3B00E74D74 /* Infoscreen-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Infoscreen-568h@2x.png"; sourceTree = "<group>"; };
-		C4283E7B1F7C3E4300E74D74 /* Infoscreen@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Infoscreen@2x.png"; sourceTree = "<group>"; };
-		C4283E7D1F7C3E4C00E74D74 /* Infoscreen.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Infoscreen.png; sourceTree = "<group>"; };
+		C4283E791F7C3E3B00E74D74 /* InfoScreen-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "InfoScreen-568h@2x.png"; sourceTree = "<group>"; };
+		C4283E7B1F7C3E4300E74D74 /* InfoScreen.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = InfoScreen.png; sourceTree = "<group>"; };
+		C4283E7D1F7C3E4C00E74D74 /* InfoScreen480.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = InfoScreen480.png; sourceTree = "<group>"; };
 		C42BAF9A11BF316200D9F604 /* infoViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = infoViewController.h; sourceTree = "<group>"; };
 		C42BAF9B11BF316200D9F604 /* infoViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = infoViewController.m; sourceTree = "<group>"; };
 		C42BAFA511BF363000D9F604 /* TipsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TipsViewController.h; sourceTree = "<group>"; };
@@ -484,6 +486,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				41071B33207BD0E900E8ECBF /* CoreLocation.framework in Frameworks */,
 				1D60589E0D05DD5A006BFB54 /* CoreFoundation.framework in Frameworks */,
 				1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */,
 				1D3623EC0D0F72F000981E51 /* CoreGraphics.framework in Frameworks */,
@@ -542,9 +545,9 @@
 				C48E29CC1F7C214C002BE4A5 /* Default.png */,
 				C48E29CE1F7C215C002BE4A5 /* Default@2x.png */,
 				C48E29D01F7C2163002BE4A5 /* Default-568h@2x.png */,
-				C4283E7D1F7C3E4C00E74D74 /* Infoscreen.png */,
-				C4283E7B1F7C3E4300E74D74 /* Infoscreen@2x.png */,
-				C4283E791F7C3E3B00E74D74 /* Infoscreen-568h@2x.png */,
+				C4283E7D1F7C3E4C00E74D74 /* InfoScreen480.png */,
+				C4283E7B1F7C3E4300E74D74 /* InfoScreen.png */,
+				C4283E791F7C3E3B00E74D74 /* InfoScreen-568h@2x.png */,
 				C42BAFBF11BF369300D9F604 /* InfoXIB */,
 				C42BAFBE11BF366B00D9F604 /* DetailXIB */,
 				C4E9401511BB0A5E0021141A /* Images */,
@@ -563,6 +566,7 @@
 		29B97323FDCFA39411CA2CEA /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				41071B32207BCB2700E8ECBF /* CoreLocation.framework */,
 				C485162C11AE1A7C00549246 /* MapKit.framework */,
 				C485162211AE1A6B00549246 /* AVFoundation.framework */,
 				1D3623EB0D0F72F000981E51 /* CoreGraphics.framework */,
@@ -908,10 +912,16 @@
 		29B97313FDCFA39411CA2CEA /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastUpgradeCheck = 0510;
+				LastUpgradeCheck = 0930;
 				TargetAttributes = {
 					1D6058900D05DD3D006BFB54 = {
 						DevelopmentTeam = 5G4385EGEP;
+						ProvisioningStyle = Automatic;
+						SystemCapabilities = {
+							com.apple.Maps.iOS = {
+								enabled = 1;
+							};
+						};
 					};
 				};
 			};
@@ -982,7 +992,7 @@
 				C48E290D1F7951FF002BE4A5 /* Beauregard back porch.png in Resources */,
 				C48E28DB1F794E96002BE4A5 /* nolac1.mp3 in Resources */,
 				C48E295B1F7954AB002BE4A5 /* nolahtable5.png in Resources */,
-				C4283E7A1F7C3E3B00E74D74 /* Infoscreen-568h@2x.png in Resources */,
+				C4283E7A1F7C3E3B00E74D74 /* InfoScreen-568h@2x.png in Resources */,
 				C48E29711F795509002BE4A5 /* nolahtable16.png in Resources */,
 				C48E291D1F795298002BE4A5 /* Charles III of Spain.png in Resources */,
 				C4C759701F4E0B11000F5BCB /* PageFourteenViewController.xib in Resources */,
@@ -1107,14 +1117,14 @@
 				C4C759661F4E0AC1000F5BCB /* PageTwelveViewController.xib in Resources */,
 				C4FE6C461F4A052400A11127 /* PinDRed12.png in Resources */,
 				C48E29CF1F7C215C002BE4A5 /* Default@2x.png in Resources */,
-				C4283E7C1F7C3E4300E74D74 /* Infoscreen@2x.png in Resources */,
+				C4283E7C1F7C3E4300E74D74 /* InfoScreen.png in Resources */,
 				C48E29351F795374002BE4A5 /* Gen. Beauregard.png in Resources */,
 				C4C7596B1F4E0AEC000F5BCB /* PageThirteenViewController.xib in Resources */,
 				C48E29111F795215002BE4A5 /* Bourbon Orleans.png in Resources */,
 				C48E28FF1F79516F002BE4A5 /* Count O'Reilly.png in Resources */,
 				C4C759861F4F3CBB000F5BCB /* Icon.png in Resources */,
 				C48E29251F7952D1002BE4A5 /* Civil War hospital.png in Resources */,
-				C4283E7E1F7C3E4C00E74D74 /* Infoscreen.png in Resources */,
+				C4283E7E1F7C3E4C00E74D74 /* InfoScreen480.png in Resources */,
 				C48E29391F795397002BE4A5 /* Hotel Monteleone clock.png in Resources */,
 				C4C759941F4F3DB5000F5BCB /* Icon180.png in Resources */,
 				C48E290F1F795209002BE4A5 /* Benjamin Butler.png in Resources */,
@@ -1198,20 +1208,26 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
-				CODE_SIGN_IDENTITY = "iPhone Developer: Bradley Rothrock (C6RC253926)";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Bradley Rothrock (C6RC253926)";
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_STYLE = Automatic;
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEVELOPMENT_TEAM = "";
+				ENABLE_BITCODE = NO;
 				GCC_DYNAMIC_NO_PIC = NO;
 				GCC_OPTIMIZATION_LEVEL = 0;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = Prefix.pch;
 				INFOPLIST_FILE = Info.plist;
 				INSTALL_PATH = /Applications;
-				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				PRODUCT_BUNDLE_IDENTIFIER = WickedWalksNewOrleans;
 				PRODUCT_NAME = WickedWalksNewOrleans;
 				PROVISIONING_PROFILE = "";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -1221,18 +1237,24 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
-				CODE_SIGN_IDENTITY = "iPhone Developer: Bradley Rothrock (C6RC253926)";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Bradley Rothrock (C6RC253926)";
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_STYLE = Automatic;
 				COPY_PHASE_STRIP = YES;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEVELOPMENT_TEAM = "";
+				ENABLE_BITCODE = NO;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = Prefix.pch;
 				INFOPLIST_FILE = Info.plist;
 				INSTALL_PATH = /Applications;
-				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				PRODUCT_BUNDLE_IDENTIFIER = WickedWalksNewOrleans;
 				PRODUCT_NAME = WickedWalksNewOrleans;
 				PROVISIONING_PROFILE = "";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -1241,11 +1263,37 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
-				CODE_SIGN_IDENTITY = "iPhone Developer: Bradley Rothrock (C6RC253926)";
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				ENABLE_BITCODE = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_TREAT_WARNINGS_AS_ERRORS = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				ONLY_ACTIVE_ARCH = YES;
 				PRODUCT_NAME = WickedWalksNewOrleans;
 				SDKROOT = iphoneos;
@@ -1257,11 +1305,36 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
-				CODE_SIGN_IDENTITY = "iPhone Developer: Bradley Rothrock (C6RC253926)";
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				ENABLE_BITCODE = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_TREAT_WARNINGS_AS_ERRORS = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				SDKROOT = iphoneos;
 			};
 			name = Release;
@@ -1270,11 +1343,36 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
-				CODE_SIGN_IDENTITY = "iPhone Developer: Bradley Rothrock (C6RC253926)";
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				ENABLE_BITCODE = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_TREAT_WARNINGS_AS_ERRORS = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				PRODUCT_NAME = WickedWalksNewOrleans;
 				SDKROOT = iphoneos;
 				TARGETED_DEVICE_FAMILY = 1;
@@ -1286,18 +1384,24 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
-				CODE_SIGN_IDENTITY = "iPhone Developer: Bradley Rothrock (C6RC253926)";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Bradley Rothrock (C6RC253926)";
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_STYLE = Automatic;
 				COPY_PHASE_STRIP = YES;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEVELOPMENT_TEAM = "";
+				ENABLE_BITCODE = NO;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = Prefix.pch;
 				INFOPLIST_FILE = Info.plist;
 				INSTALL_PATH = /Applications;
-				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				PRODUCT_BUNDLE_IDENTIFIER = WickedWalksNewOrleans;
 				PRODUCT_NAME = WickedWalksNewOrleans;
 				PROVISIONING_PROFILE = "";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Distribution;
